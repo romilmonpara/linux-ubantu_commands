@@ -23,6 +23,51 @@ sudo apt update
 ```
 Use case: refresh package list
 
+```bash
+ls
+```
+Use case: list files and folders in current directory
+
+```bash
+ls -l
+```
+Use case: list files with permissions and ownership
+
+```bash
+ls -a
+```
+Use case: show hidden files (starting with .)
+
+```bash
+ls -la
+```
+Use case: list all files with detailed info
+
+```bash
+ls -lh
+```
+Use case: list files with human-readable sizes
+
+```bash
+ls /path/to/directory
+```
+Use case: list files in specific directory
+
+```bash
+ls *.py
+```
+Use case: list files by extension
+
+```bash
+ls -lt
+```
+Use case: list files sorted by modified time
+
+```bash
+ls -lr
+```
+Use case: list files in reverse order
+
 ### 📋 Copy & Paste Commands (Linux)
 
 ```bash
@@ -61,15 +106,9 @@ cp -rv src/ backup/
 Use case: copy folder with progress (verbose)
 
 ```bash
+cp -i file.txt /path/to/destination/
 ```
-
-```bash
-```
-
-```bash
-```
-
-
+Use case: ask before overwriting existing file
 
 ```bash
 sudo apt upgrade -y
