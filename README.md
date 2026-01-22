@@ -16,12 +16,60 @@ You can bookmark this, fork it, or extend it for your own workflows.
 
 ---
 
-# 🔥 30 Must-Know Linux Commands for Developers
+# 🔥 Must-Know Linux Commands for Developers
 
 ```bash
 sudo apt update
 ```
 Use case: refresh package list
+
+### 📋 Copy & Paste Commands (Linux)
+
+```bash
+cp file.txt file_copy.txt
+```
+Use case: copy a file in the same directory
+
+```bash
+cp file.txt /path/to/destination/
+```
+Use case: copy (paste) file into another folder
+
+```bash
+cp -r myfolder /path/to/destination/
+```
+Use case: copy entire folder (recursive)
+
+```bash
+mv file.txt /path/to/destination/
+```
+Use case: cut + paste (move file)
+
+```bash
+mv old.txt new.txt
+```
+Use case: rename file or folder
+
+```bash
+cp file1.txt file2.txt /path/to/destination/
+```
+Use case: copy multiple files at once
+
+```bash
+cp -rv src/ backup/
+```
+Use case: copy folder with progress (verbose)
+
+```bash
+```
+
+```bash
+```
+
+```bash
+```
+
+
 
 ```bash
 sudo apt upgrade -y
