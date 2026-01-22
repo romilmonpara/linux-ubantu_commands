@@ -21,7 +21,7 @@ You can bookmark this, fork it, or extend it for your own workflows.
 ```bash
 sudo apt update
 ```
-### Use case: refresh package list
+Use case: refresh package list
 
 ```bash
 sudo apt upgrade -y
