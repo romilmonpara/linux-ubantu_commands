@@ -10,7 +10,7 @@ You can bookmark this, fork it, or extend it for your own workflows.
 ---
 
 ## 📌 Table of Contents
-1. [30 Must-Know Linux Commands for Developers](#-30-must-know-linux-commands-for-developers)
+1. [Must-Know Linux Commands for Developers](#-30-must-know-linux-commands-for-developers)
 2. [30 Linux Commands for Production Servers](#-30-linux-commands-for-production-servers)
 3. [Linux Commands for Django Developers](#-linux-commands-for-django-developers)
 
