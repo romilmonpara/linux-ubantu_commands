@@ -7,7 +7,7 @@ Most commands need a one-time installation using `sudo apt install <package>`.
 ## 🚂 sl — Steam Locomotive
 
 ```bash
-sudo apt install sl -y
+sudo apt install sl
 sl
 ```
 Use case: fun animation when you mistype `ls`
@@ -17,7 +17,7 @@ Use case: fun animation when you mistype `ls`
 ## 🐄 cowsay — Talking Cow
 
 ```bash
-sudo apt install cowsay -y
+sudo apt install cowsay
 cowsay "Your message here"
 fortune | cowsay
 ```
@@ -28,7 +28,7 @@ Use case: ASCII cow with messages or random quotes
 ## 🟩 cmatrix — Matrix Effect
 
 ```bash
-sudo apt install cmatrix -y
+sudo apt install cmatrix
 cmatrix
 ```
 Use case: Matrix-style terminal animation
@@ -38,7 +38,7 @@ Use case: Matrix-style terminal animation
 ## 🔥 aafire — Terminal Fire
 
 ```bash
-sudo apt install libaa-bin -y
+sudo apt install libaa-bin
 aafire
 ```
 Use case: fire animation in terminal
@@ -48,7 +48,7 @@ Use case: fire animation in terminal
 ## 🔮 fortune — Random Quotes
 
 ```bash
-sudo apt install fortune -y
+sudo apt install fortune
 fortune
 ```
 Use case: display random quotes
@@ -58,7 +58,7 @@ Use case: display random quotes
 ## 🔤 figlet — ASCII Text Banner
 
 ```bash
-sudo apt install figlet -y
+sudo apt install figlet
 figlet "Your Text"
 ```
 Use case: generate ASCII banners
@@ -68,7 +68,7 @@ Use case: generate ASCII banners
 ## 🔊 espeak — Text to Speech
 
 ```bash
-sudo apt install espeak -y
+sudo apt install espeak
 espeak "Hello, WSL user"
 ```
 Use case: computer speaks text
